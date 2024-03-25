@@ -5,7 +5,7 @@
 - <b>Azure Honeynet Project</b>
   - [Configuring VM in Azure](https://github.com/FidelisIwu/AzureVM)
   - [Utilizing Azure VMs to create Honeynet](https://github.com/FidelisIwu/Azure-Honeynet)
-  - [Azure Honeynet resources](https://github.com/joshmadakor1/AD_PS)
+  - [Azure Honeynet resources](https://github.com/FidelisIwu/Azure-Honeynet-resources)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
