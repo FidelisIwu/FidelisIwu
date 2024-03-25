@@ -1,6 +1,6 @@
 <h1>Hello World! I'm Fidelis </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Here some of the projects I've undertaken during my journey as a Cybersecurity enthusiast 👨‍💻 :</h2>
 
 - <b>Azure Honeynet Project</b>
   - [Configuring VM in Azure](https://github.com/FidelisIwu/AzureVM)
