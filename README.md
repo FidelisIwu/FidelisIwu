@@ -1,4 +1,4 @@
-<h1>Hello World! I'm Fidelis! </h1>
+<h1>Hello World! I'm Fidelis </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
