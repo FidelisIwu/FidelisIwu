@@ -7,7 +7,7 @@
   - [Utilizing Azure VMs to create Honeynet](https://github.com/FidelisIwu/Azure-Honeynet)
   - [Azure Honeynet resources](https://github.com/FidelisIwu/Azure-Honeynet-resources)
 - <b>Active Directory VM Labs</b>
-  - [AD Lab](https://github.com/joshmadakor1/EncrypterPOC)
+  - [AD Lab](https://github.com/FidelisIwu/Active-Directory-Lab)
 
 
 <h2> 🤳 Connect with me:</h2>
