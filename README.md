@@ -1,4 +1,4 @@
-<h1>Hello World! My name is Fidelis! </h1>
+<h1>Hello World, My name is Fidelis! </h1>
 
 <h2>Here are some of the projects I've completed along my journey to become a Cybersecurity analyst 👨‍💻 :</h2>
 
