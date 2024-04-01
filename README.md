@@ -10,6 +10,7 @@
   - [AD Lab](https://github.com/FidelisIwu/Active-Directory-Lab)
 - <b>Other Labs</b>
   - [Azure Monitor](https://github.com/FidelisIwu/Azure-Monitor2)
+  - [Microsoft Defender](https://github.com/FidelisIwu/Microsoft-Defender)
 
 
 <h2> 🤳 Connect with me:</h2>
