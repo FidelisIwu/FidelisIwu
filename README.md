@@ -8,6 +8,8 @@
   - [Azure Honeynet resources](https://github.com/FidelisIwu/Azure-Honeynet-resources)
 - <b>Active Directory VM Labs</b>
   - [AD Lab](https://github.com/FidelisIwu/Active-Directory-Lab)
+- <b>Other Labs</b>
+  - [Azure Honeynet resources](https://github.com/FidelisIwu/Azure-Monitor2)
 
 
 <h2> 🤳 Connect with me:</h2>
